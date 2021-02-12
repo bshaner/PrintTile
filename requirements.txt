@@ -1,0 +1,8 @@
+fpdf2==2.3.0
+ipycanvas==0.8.2
+ipyevents==0.8.0
+ipython==7.19.0
+ipywidgets==7.6.3
+numpy==1.19.5
+Pillow==8.1.0
+requests==2.21.0
