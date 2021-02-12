@@ -6,3 +6,4 @@ ipywidgets==7.6.3
 numpy==1.19.5
 Pillow==8.1.0
 requests==2.21.0
+validators==0.18.2
