@@ -14,3 +14,5 @@ Watched https://youtu.be/apeZO6C0ZeA, where Adam Savage prints out pieces of an 
       * confirm with Enter
       * delete with Delete
   * download link in the UI, once the print is generated
+
+![usage example](sample.PNG)
